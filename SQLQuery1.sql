@@ -1,0 +1,11 @@
+﻿--INSERT INTO Users (f_name,l_name) VALUES('Alex', 'Loghin');
+--INSERT INTO Users (f_name,l_name) VALUES('John', 'Doe');
+--INSERT INTO Users (f_name,l_name) VALUES('Marco', 'Marconi');
+--INSERT INTO Users (f_name,l_name) VALUES('Gigi', 'Giggioni');
+--INSERT INTO Users (f_name,l_name) VALUES('Sam', 'Smith');
+--INSERT INTO Users (f_name,l_name) VALUES('Marco', 'Merchese');
+--INSERT INTO Users (f_name,l_name) VALUES('Luigi', 'Stressato');
+--INSERT INTO Users (f_name,l_name) VALUES('Maria', 'Marmo');
+--INSERT INTO Users (f_name,l_name) VALUES('Gino', 'Ginetti');
+--INSERT INTO Users (f_name,l_name) VALUES('Jesus', 'Hristos');
+--INSERT INTO Users (f_name,l_name) VALUES('Carla', 'Lambruschi');
